@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://apalangian.github.io/cse445-proj4/Hotels.xsd">
+
+<!--Hotel 1-->
+<Hotel Rating="4.5">
+    <Name>Omni Tempe Hotel at ASU</Name>
+    <Phone>480-784-0900</Phone>
+    <Phone>800-843-6664</Phone>
+    <Address Number="7" NearestAirport="Sky Harbor">
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 2: Drury Plaza Hotel Phoenix Tempe -->
+  <Hotel Rating="4.6">
+    <Name>Drury Plaza Hotel Phoenix Tempe</Name>
+    <Phone>480-968-0700</Phone>
+    <Address Number="2100">
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 3: Hampton Inn & Suites Tempe Phoenix Airport -->
+  <Hotel Rating="4.4">
+    <Name>Hampton Inn And Suites Tempe Phoenix Airport</Name>
+    <Phone>480-456-8800</Phone>
+    <Address Number="1650" NearestAirport="Sky Harbor">
+      <Street>S 52nd St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 4: Hyatt Place Tempe/Phoenix Airport -->
+  <Hotel Rating="4.0">
+    <Name>Hyatt Place Tempe/Phoenix Airport</Name>
+    <Phone>480-804-9544</Phone>
+    <Address Number="1413" NearestAirport="Sky Harbor">
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 5: Embassy Suites By Hilton Phoenix Tempe -->
+  <Hotel Rating="4.3">
+    <Name>Embassy Suites By Hilton Phoenix Tempe</Name>
+    <Phone>480-838-2500</Phone>
+    <Phone>800-362-2779</Phone>
+    <Address Number="4400">
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 6: Hilton Garden Inn Phoenix Tempe ASU Area -->
+  <Hotel>
+    <Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
+    <Phone>480-894-0500</Phone>
+    <Address Number="1717">
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 7: SpringHill Suites Phoenix Tempe/Airport -->
+  <Hotel Rating="4.3">
+    <Name>SpringHill Suites Phoenix Tempe/Airport</Name>
+    <Phone>480-804-0515</Phone>
+    <Address Number="1150" NearestAirport="Sky Harbor">
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 8: Graduate Tempe -->
+  <Hotel Rating="4.5">
+    <Name>Graduate Tempe</Name>
+    <Phone>480-921-3333</Phone>
+    <Address Number="225">
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 9: Canopy by Hilton Tempe Downtown -->
+  <Hotel>
+    <Name>Canopy by Hilton Tempe Downtown</Name>
+    <Phone>480-535-1000</Phone>
+    <Address Number="415">
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Real Hotel 10: Tempe Mission Palms -->
+  <Hotel Rating="4.1">
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
+    <Phone>800-547-8705</Phone>
+    <Address Number="60">
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
