@@ -3,6 +3,19 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://apalangian.github.io/cse445-proj4/Hotels.xsd">
 
+<!--Figure 1-->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address Number="11" NearestAirport="Sky Harbor">
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
 <!--Hotel 1-->
 <Hotel Rating="4.5">
     <Name>Omni Tempe Hotel at ASU</Name>
@@ -16,7 +29,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 2: Drury Plaza Hotel Phoenix Tempe -->
+  <!--Hotel 2-->
   <Hotel Rating="4.6">
     <Name>Drury Plaza Hotel Phoenix Tempe</Name>
     <Phone>480-968-0700</Phone>
@@ -28,7 +41,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 3: Hampton Inn & Suites Tempe Phoenix Airport -->
+  <!--Hotel 3-->
   <Hotel Rating="4.4">
     <Name>Hampton Inn And Suites Tempe Phoenix Airport</Name>
     <Phone>480-456-8800</Phone>
@@ -40,7 +53,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 4: Hyatt Place Tempe/Phoenix Airport -->
+  <!--Hotel 4-->
   <Hotel Rating="4.0">
     <Name>Hyatt Place Tempe/Phoenix Airport</Name>
     <Phone>480-804-9544</Phone>
@@ -52,7 +65,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 5: Embassy Suites By Hilton Phoenix Tempe -->
+  <!--Hotel 5-->
   <Hotel Rating="4.3">
     <Name>Embassy Suites By Hilton Phoenix Tempe</Name>
     <Phone>480-838-2500</Phone>
@@ -65,7 +78,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 6: Hilton Garden Inn Phoenix Tempe ASU Area -->
+  <!--Hotel 6-->
   <Hotel>
     <Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
     <Phone>480-894-0500</Phone>
@@ -77,7 +90,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 7: SpringHill Suites Phoenix Tempe/Airport -->
+  <!--Hotel 7-->
   <Hotel Rating="4.3">
     <Name>SpringHill Suites Phoenix Tempe/Airport</Name>
     <Phone>480-804-0515</Phone>
@@ -89,7 +102,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 8: Graduate Tempe -->
+  <!--Hotel 8-->
   <Hotel Rating="4.5">
     <Name>Graduate Tempe</Name>
     <Phone>480-921-3333</Phone>
@@ -101,7 +114,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 9: Canopy by Hilton Tempe Downtown -->
+  <!--Hotel 9-->
   <Hotel>
     <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>480-535-1000</Phone>
@@ -113,7 +126,7 @@
     </Address>
   </Hotel>
   
-  <!-- Real Hotel 10: Tempe Mission Palms -->
+  <!--Hotel 10-->
   <Hotel Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
