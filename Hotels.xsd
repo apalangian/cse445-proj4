@@ -20,16 +20,16 @@
                     <xs:element name="Street" type="xs:string"/> 
                     <xs:element name="City" type="xs:string"/>
                     <xs:element name="State" type="xs:string"/>
-                    <xs:element name="Zip" type="xs:integer"/>
+                    <xs:element name="Zip" type="xs:int"/>
                   </xs:sequence>
-                  <xs:attribute name="Number" type="xs:integer" use="required"/> 
-                  <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
+                  <xs:element name="Number" type="xs:int"/> 
+                  <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
             
             <!--Rating (optional) -->
-            <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
+            <xs:attribute name="Rating" type="xs:double" use="optional"/>
           </xs:complexType>
         </xs:element>
       </xs:sequence>
