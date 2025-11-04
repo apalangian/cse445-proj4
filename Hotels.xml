@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Hotels xmlns:xsi-xsi:noNamespaceSchemaLocation="https://apalangian.github.io/cse445-proj4/Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="https://apalangian.github.io/cse445-proj4/Hotels.xsd">
 
 <!--Figure 1-->
   <Hotel Rating="4.2">
